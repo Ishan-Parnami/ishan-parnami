@@ -2,8 +2,6 @@
 <p>Frontend Developer skilled in React, Next.js & MERN stack | Passionate about building clean, responsive UIs | Exploring automation with Selenium & Cucumber | Strong foundation in DSA with C++</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="center">
