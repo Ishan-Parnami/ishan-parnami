@@ -65,8 +65,8 @@
   <img width="15" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" alt="selenium logo"  />
   <img width="15" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
-</div> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  /> -->
+</div>
 
 ###
 
