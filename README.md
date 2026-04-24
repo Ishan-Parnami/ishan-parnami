@@ -87,7 +87,7 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=Ishan-Parnami&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ishan-Parnami&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ishan-Parnami&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Parnami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 </div>
