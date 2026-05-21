@@ -47,4 +47,4 @@ A Software Development Engineer (SDE) passionate about building reliable softwar
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ishanp214)
 
 # 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishan-parnami&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Parnami&theme=dark)
